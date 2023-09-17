@@ -8,7 +8,7 @@ h1{
 .a{
    color: orange;
 }
-section{
+.flex{
    display: flex;
    margin-bottom:100px;
 }
@@ -33,4 +33,8 @@ section{
 
 .dream{
    display:flex;
+   margin-bottom: 100px;
+}
+.first{
+   color:orange;
 }

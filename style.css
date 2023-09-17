@@ -10,6 +10,7 @@ h1{
 }
 section{
    display: flex;
+   margin-bottom:100px;
 }
 .half-width{
    width: 50%;
@@ -22,4 +23,14 @@ section{
    color:white;
    border-radius:5%;
    font-weight: 700px;
+}
+.title{
+   color:black;
+}
+.title2{
+   color:black;
+}
+
+.dream{
+   display:flex;
 }
